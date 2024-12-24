@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "First task",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Second task",
+      "status": true
+    },
+    {
+      "id": "33c8",
+      "title": "цувсуцв",
+      "status": false
+    },
+    {
+      "id": "d56d",
+      "title": "цувцув",
+      "status": false
+    },
+    {
+      "id": "32b8",
+      "title": "рмргм",
+      "status": false
+    }
+  ]
+}
